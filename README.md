@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorparente/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](igorparente182dev@hotmail.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](figorpdf@gmail.com) [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/igorparente182)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorparente182&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorparente182)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorparente182&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorparente182&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia a dia
 
